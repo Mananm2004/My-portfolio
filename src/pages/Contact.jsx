@@ -13,7 +13,7 @@ export default function Contact() {
       <div className="bg-zinc-800 p-10 rounded-2xl shadow-lg text-center max-w-lg">
         {/* Profile Photo */}
         <img
-          src="public/photo1.jpeg" // Replace with your photo URL
+          src="/photo1.jpeg" // Replace with your photo URL
           alt="Profile"
           className="w-60 h-60 rounded-full mx-auto border-4 border-[#F46C38] mb-4"
         />
